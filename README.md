@@ -1,6 +1,18 @@
 # HelloGit
-GitHub使用笔记
+GitHub笔记
 
-GitHub全面入门学习：[guides.github.com](https://guides.github.com/)
 
-remark：这条修改来自分支合并提交，根据[GitHub Guides](https://guides.github.com/activities/hello-world/)学习过程创建的。
+**简单快速认识GitHub**: 
+通过两篇文章快速认识Github即可（照看不动手），然后接着向下学习：
+- [初识 GitHub](https://www.jianshu.com/p/94e2794cb270)
+- [加入 GitHub](https://www.jianshu.com/p/d9f9bba4da0f)
+
+**GitHub入门练习**
+下面学习过程要练习，结合之前的初识提到的注意点慢慢操作。
+- [Class01. HelloWord](https://guides.github.com/activities/hello-world/)
+- [Class02. Git入门](https://guides.github.com/introduction/git-handbook/)
+- [Class03. 入门VsCode & Markdown基本语法](https://www.cnblogs.com/LuckyZLi/p/9776143.html)
+
+**Git系列全面学习**
+需要进一步了解学习的，可在此找更多信息全面深入学习：
+ - [全面学习Github（guides.github.com）](https://guides.github.com/)
