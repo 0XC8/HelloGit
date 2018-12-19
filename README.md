@@ -17,3 +17,6 @@ GitHub笔记
 需要进一步了解学习的，可在此找更多信息全面深入学习：
  - [全面学习Github（guides.github.com）](https://guides.github.com/)
  - [廖雪峰 Git电子书系列](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+**Git常用工具**
+- [GitHub桌面版. GitHub Desktop](https://guides.github.com/activities/hello-world/)
