@@ -32,7 +32,7 @@ GitHub笔记
 **GitBook使用入门**：
 网上入门方法一堆，但是有些质量不高，这里根据我的学习经验，列出2-3个最佳参考，以节约学习时间。
 - [Blankj总结的使用教程 - GitBook 使用教程 ★★★](https://www.jianshu.com/p/421cc442f06c)
-- [较全面的中文版教程 - GitBook笔记（教程本身就是用gitbook制作发布的电子书） ★★★★](https://dunwu.gitbooks.io/gitbook-notes/)
+- [较全面的中文版教程 - GitBook笔记 ★★★★](https://dunwu.gitbooks.io/gitbook-notes/)（教程本身就是用gitbook制作发布的电子书）
 - [官方全面的英文版教程 - GitBook Toolchain Documentation ★★★★★](https://toolchain.gitbook.com/ebook.html)
 
 **GitBook相关资源下载**
